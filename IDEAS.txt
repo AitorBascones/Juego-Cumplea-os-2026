@@ -1,0 +1,15 @@
+La idea principal es desarrollar una especie de gymkana con varias pruebas en la que cada persona participe de manera individual.
+
+Cada prueba otorgará un nº de puntos (de manera que esté balanceado, no por ganar un único juego vas a ganar la gymkana) y cada prueba tendrá un tiempo límite de duración.
+
+**Idea--> Cada usuario empezará con una serie de puntos y antes de cada ronda cada jugador podrá apostar puntos según se va a pasar el juego o no. **
+
+Juego 1: Ordena los siguientes hechos históricos en el tiempo
+
+Juego 2: Juego números saber y ganar/ forma la palabra más larga
+
+Juego 3: Juego de votaciones múltiples: Se plantea una especie de que prefieres, las personas con las respuestas más votadas ganan puntos
+
+Juego 4: Quien más se aproxime gana: Se lanza una pregunta absurda cuya respuesta es un numero Ejm: ¿Cual es el record de tomarse cervezas seguidas? y los usuarios tienen que hacer una estimación, quién más se acerque más puntos gana
+
+Juego 5: Juego de varias rondas, en cada ronda van saliendo imágenes cada vez menos borrosas. En cada ronda cada usuario puede decir quien sale en la foto, en cuantas menos rondas lo saques más puntos se lleva el usuario.
