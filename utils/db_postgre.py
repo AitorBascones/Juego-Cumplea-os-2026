@@ -7,7 +7,7 @@ import os
 # DATABASE CONFIG
 # ─────────────────────────────────────────────────────────────
 
-DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_HOST = os.getenv("DB_HOST", "127.0.0.1")
 DB_NAME = os.getenv("DB_NAME", "concurso_cumple")
 DB_USER = os.getenv("DB_USER", "postgres")
 DB_PASS = os.getenv("DB_PASS", "postgres")
