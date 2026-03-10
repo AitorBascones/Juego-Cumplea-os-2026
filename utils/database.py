@@ -5,6 +5,8 @@ from datetime import datetime
 
 DB_PATH = "gymkana.db"
 
+#Crea una conexión a la base de datos y asegura que las tablas necesarias existan. Esto se llama al iniciar la aplicación (app.py).
+
 def get_conn():
     conn = sqlite3.connect(DB_PATH, check_same_thread=False)
     conn.row_factory = sqlite3.Row
@@ -145,7 +147,7 @@ def reset_all():
     conn.commit()
     conn.close()
 
-# ── Bets ──────────────────────────────────────────────────────────────────────
+# ── Bets (hay que incorporarle el tema de las rondas dentro de cada juego) ──────────────────────────────────────────────────────────────────────
 
 def place_bet(player_name: str, game_id: int, amount: int, bet_win: int) -> bool:
     try:
